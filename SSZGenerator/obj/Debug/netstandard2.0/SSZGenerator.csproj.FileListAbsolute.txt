@@ -1,0 +1,10 @@
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/bin/Debug/netstandard2.0/SSZGenerator.deps.json
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/bin/Debug/netstandard2.0/SSZGenerator.dll
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/bin/Debug/netstandard2.0/SSZGenerator.pdb
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/obj/Debug/netstandard2.0/SSZGenerator.csproj.AssemblyReference.cache
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/obj/Debug/netstandard2.0/SSZGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/obj/Debug/netstandard2.0/SSZGenerator.AssemblyInfoInputs.cache
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/obj/Debug/netstandard2.0/SSZGenerator.AssemblyInfo.cs
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/obj/Debug/netstandard2.0/SSZGenerator.csproj.CoreCompileInputs.cache
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/obj/Debug/netstandard2.0/SSZGenerator.dll
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/obj/Debug/netstandard2.0/SSZGenerator.pdb

@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/SSZGenerator.csproj": {}
+  },
+  "projects": {
+    "/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/SSZGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/SSZGenerator.csproj",
+        "projectName": "SSZGenerator",
+        "projectPath": "/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/SSZGenerator.csproj",
+        "packagesPath": "/Users/lloyd/.nuget/packages/",
+        "outputPath": "/Users/lloyd/Documents/Nethermind/ssz_dotnet8/SSZGenerator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lloyd/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.4, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

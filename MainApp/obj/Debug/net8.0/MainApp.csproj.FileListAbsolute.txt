@@ -1,0 +1,14 @@
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/bin/Debug/net8.0/MainApp
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/bin/Debug/net8.0/MainApp.deps.json
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/bin/Debug/net8.0/MainApp.runtimeconfig.json
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/bin/Debug/net8.0/MainApp.dll
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/bin/Debug/net8.0/MainApp.pdb
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/obj/Debug/net8.0/MainApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/obj/Debug/net8.0/MainApp.AssemblyInfoInputs.cache
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/obj/Debug/net8.0/MainApp.AssemblyInfo.cs
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/obj/Debug/net8.0/MainApp.csproj.CoreCompileInputs.cache
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/obj/Debug/net8.0/MainApp.dll
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/obj/Debug/net8.0/refint/MainApp.dll
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/obj/Debug/net8.0/MainApp.pdb
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/obj/Debug/net8.0/MainApp.genruntimeconfig.cache
+/Users/lloyd/Documents/Nethermind/ssz_dotnet8/MainApp/obj/Debug/net8.0/ref/MainApp.dll
