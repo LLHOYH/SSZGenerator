@@ -5,6 +5,7 @@ using Microsoft.CodeAnalysis.CSharp;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.CodeAnalysis.Text;
 using System.Text;
+using AdapterProject;
 
 [Generator]
 public class SSZGenerator : IIncrementalGenerator
@@ -36,7 +37,9 @@ public class SSZGenerator : IIncrementalGenerator
                 var className = classDeclaration.Identifier.Text;
                 var namespaceName = GetNamespace(classDeclaration);
                 var generatedCode = GenerateClassCode(namespaceName, className);
-                spc.AddSource($"{className}_class_generated.cs", SourceText.From(generatedCode, Encoding.UTF8));
+                var sszhelper = new SszHelper();
+                var serializedGeneratedCode = sszhelper.Serialize(generatedCode);
+                spc.AddSource($"{className}_class_generated.cs", SourceText.From(serializedGeneratedCode, Encoding.UTF8));
             }
         });
 
